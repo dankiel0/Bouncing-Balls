@@ -1,2 +1,2 @@
 # BallBouncer
-bounce some balls
+Simulates gravity and the physics of bouncy balls
